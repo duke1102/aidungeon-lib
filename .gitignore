@@ -8,3 +8,6 @@ src/**.js
 coverage
 *.log
 yarn.lock
+.history/*
+config.json
+notes/*

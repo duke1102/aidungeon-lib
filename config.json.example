@@ -1,0 +1,13 @@
+/*
+ * MAKE SURE TO REMOVE ALL THE COMMENTS IN THIS FILE AFTER EDITING!
+ */
+
+{
+	"userEmail": "", // The E-Mail you use to login at play.aidungeon.io
+	"userPassword": "", // Your password
+	"authToken": "", // OPTIONAL: Grab the Auth Token from the browser's localStorage and use this instead of email + password auth
+	"aiModel": "dragon", // The AI Model the client will use, either "dragon" or "griffin"; if "dragon" is not available it will automatically use "griffin"
+	"allowNsfw": true, // NSFW mode active on all adventures
+	"websocketTimeout": 60, // Time in seconds before the websocket connection to the AI Dungeon API disconnects if no response in the time frame
+	"websocketAutoReconnect": true // Automatically try to reconnect to the AI Dungeon API if a disconnect occurs?
+}
