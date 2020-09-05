@@ -1,3 +1,4 @@
 # aidungeon-lib
+# Work In Progress
 
-A library to interact with play.aidungeon.io
+A TypeScript library to interact with play.aidungeon.io.
